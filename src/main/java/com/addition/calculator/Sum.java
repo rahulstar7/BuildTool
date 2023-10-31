@@ -82,4 +82,22 @@ public class Sum {
 		return c;
 	}
 
+<<<<<<< HEAD
+=======
+public int stash(int a , int b)
+	{
+		
+		int c= a+b;
+		System.out.println("Addtion Service: of a and b"+c);
+		
+		return c;
+	}
+	
+	
+	
+	
+	
+	
+	
+>>>>>>> 97f690a856c37e6827263da8f6c314259a44eb8e
 }
