@@ -31,8 +31,16 @@ public class Sum {
 		return c;
 	}
 
-	
-	
+	//Important Work
+	public int div(int a , int b)
+	{
+		
+		int c= a/b;
+		System.out.println("Addtion Service: of a and b"+c);
+		
+		return c;
+	}
+
 	
 	
 	
