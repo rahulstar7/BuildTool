@@ -76,6 +76,14 @@ public class Sum {
 		return c;
 	}
 
+public int stash(int a , int b)
+	{
+		
+		int c= a+b;
+		System.out.println("Addtion Service: of a and b"+c);
+		
+		return c;
+	}
 	
 	
 	
