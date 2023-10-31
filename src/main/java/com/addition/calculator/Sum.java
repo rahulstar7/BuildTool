@@ -31,16 +31,55 @@ public class Sum {
 		return c;
 	}
 
-	//Important Work
-	public int div(int a , int b)
+
+		
+	public int Test1(int a , int b)
 	{
 		
-		int c= a/b;
+		int c= a+b;
 		System.out.println("Addtion Service: of a and b"+c);
 		
 		return c;
 	}
 
+	public int Test2(int a , int b)
+	{
+		
+		int c= a+b;
+		System.out.println("Addtion Service: of a and b"+c);
+		
+		return c;
+	}
+	public int Test3(int a , int b)
+	{
+		
+		int c= a+b;
+		System.out.println("Addtion Service: of a and b"+c);
+		
+		return c;
+	}
+	public int Test4(int a , int b)
+	{
+		
+		int c= a+b;
+		System.out.println("Addtion Service: of a and b"+c);
+		
+		return c;
+	}
+
+	public int Test5(int a , int b)
+	{
+		
+		int c= a+b;
+		System.out.println("Addtion Service: of a and b"+c);
+		
+		return c;
+	}
+
+	
+	
+	
+	
 	
 	
 	
